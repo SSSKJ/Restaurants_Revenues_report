@@ -4,8 +4,6 @@
 
 This is a Data Mining project for **IE 7275 Data Mining in Engineering** in Northeastern University. In this project,  we obtained the dataset of TFI company’s restaurants located at 100000 sites around the world from. We preprocessed the data by deleting and converting some variables. The goal of our case study is to build regression models such as random forest and XGBoost, use them to predict new restaurants revenues in order to decide where to open new sites. In the end, we find out that random forest model has a better performance.  **You can read the report about this project in the report file for more details. The code is in scripts file for data visualization, analyzing and modeling **.
 
-## Environmental Requirement
-
 ## How to Run
 
 Run ./scriRESTAURANT REVENUE PREDICTION - GROUP 2.R with R studio
