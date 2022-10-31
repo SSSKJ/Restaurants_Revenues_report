@@ -6,7 +6,7 @@ This is a Data Mining project for **IE 7275 Data Mining in Engineering** in Nort
 
 ## How to Run
 
-Run ./scriRESTAURANT REVENUE PREDICTION - GROUP 2.R with R studio
+Run ./scripts/RESTAURANT REVENUE PREDICTION - GROUP 2.R with R studio
 
 ## Background and Introduction
 
